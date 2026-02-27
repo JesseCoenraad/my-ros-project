@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="my-ros-project"
 ARG DESCRIPTION="My first ROS-compatible DTProject for Duckietown"
-ARG MAINTAINER="<Jesse Coenraad> (jessecoenraad2004@gmail.com)"
+ARG MAINTAINER="Jesse Coenraad (jessecoenraad2004@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
